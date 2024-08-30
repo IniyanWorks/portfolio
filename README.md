@@ -26,7 +26,7 @@
 ### Market Basket Analysis
 - [Video Tutorial (DE)](https://www.youtube.com/watch?v=ytCmN5r0uCY&t=7s)
 
-- [Kaggle Notebook](https://www.kaggle.com/code/iniyansel/market-basket-association-analysis)
+- [Notebook](https://github.com/IniyanWorks/Market-Basket-Analysis/blob/main/market-basket-association-analysis.ipynb))
 ### AirBnb Market Analysis
 - [Video Tutorial (DE)](https://www.youtube.com/watch?v=ZmhNdggqH8o&list=PL-DjkaHRlEOq2unEOqvE35_fNj4AmE4JH)
 
