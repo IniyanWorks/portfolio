@@ -31,7 +31,8 @@
 - [Video Tutorial (DE)](https://www.youtube.com/watch?v=ZmhNdggqH8o&list=PL-DjkaHRlEOq2unEOqvE35_fNj4AmE4JH)
 
 ## Expertise
-- Python
+- Python for Data Science
 - SQL
 - Power BI
 - Excel
+- Frontend Development
