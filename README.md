@@ -3,3 +3,12 @@
 ### Education
 - E-Commerce Manager, IHK Certification
 - Information Economy, B.Sc.
+
+### Work Experience
+- 
+
+### Expertise
+- Python
+- SQL
+- Power BI
+- Excel
